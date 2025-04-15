@@ -1,5 +1,6 @@
 
 
+
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Vertere Global Solutions](https://www.vertere-gs.com/) as an Automation Quality Assurance Analyst!
